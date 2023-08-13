@@ -43,8 +43,7 @@ inquirer
         "Wikipedia",
         {
           name: "Google",
-          value: "Google",
-          disabled: "Unavailable at this time",
+          value: "Google"
         },
         {
           name: "Yahoo",
